@@ -1,0 +1,334 @@
+----------SMA CROSS-----------
+
+
+TWTR since 1-1-15
+
+!!!!!!!!!!!! -SMA Low: 38  -SMA High: 81  -Best Percentage: 98.97 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 38  -SMA High: 82  -Best Percentage: 99.38 !!!!!!!!!!!!
+From Best: 2.29%: -L: 45 -H: 94 -P: 99.38
+From Best: 2.55%: -L: 45 -H: 95 -P: 99.38
+!!!!!!!!!!!! -SMA Low: 86  -SMA High: 87  -Best Percentage: 112.18 !!!!!!!!!!!!
+From Best: 1.7%: -L: 107 -H: 108 -P: 112.18
+!!!!!!!!!!!! -SMA Low: 107  -SMA High: 109  -Best Percentage: 121.19 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 107  -SMA High: 110  -Best Percentage: 121.37 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 117  -SMA High: 118  -Best Percentage: 121.54 !!!!!!!!!!!!
+Stat                 ma_cross
+-------------------  ----------
+Start                2015-01-02
+End                  2016-05-20
+Risk-free rate       0.00%
+
+Total Return         121.54%
+Daily Sharpe         1.51
+CAGR                 77.97%
+Max Drawdown         -26.27%
+
+MTD                  0.23%
+3m                   18.04%
+6m                   92.07%
+YTD                  72.63%
+1Y                   121.54%
+3Y (ann.)            77.97%
+5Y (ann.)            -
+10Y (ann.)           -
+Since Incep. (ann.)  77.97%
+
+Daily Sharpe         1.51
+Daily Mean (ann.)    67.47%
+Daily Vol (ann.)     44.74%
+Daily Skew           0.97
+Daily Kurt           5.86
+Best Day             16.26%
+Worst Day            -9.10%
+
+Monthly Sharpe       2.01
+Monthly Mean (ann.)  65.48%
+Monthly Vol (ann.)   32.51%
+Monthly Skew         1.99
+Monthly Kurt         6.44
+Best Month           34.78%
+Worst Month          -9.11%
+
+Yearly Sharpe        -
+Yearly Mean          72.63%
+Yearly Vol           -
+Yearly Skew          -
+Yearly Kurt          -
+Best Year            72.63%
+Worst Year           72.63%
+
+Avg. Drawdown        -7.45%
+Avg. Drawdown Days   18.80
+Avg. Up Month        8.76%
+Avg. Down Month      -1.82%
+Win Year %           100.00%
+Win 12m %            100.00%
+
+
+NVDA
+
+From Best: 0.53%: -L: 17 -H: 164 -P: 105.24
+From Best: 0.0%: -L: 17 -H: 171 -P: 105.24
+From Best: 0.53%: -L: 18 -H: 164 -P: 105.24
+From Best: 0.0%: -L: 18 -H: 171 -P: 105.24
+From Best: 0.53%: -L: 19 -H: 164 -P: 105.24
+From Best: 0.0%: -L: 19 -H: 171 -P: 105.24
+From Best: 0.0%: -L: 20 -H: 171 -P: 105.24
+From Best: 3.61%: -L: 21 -H: 160 -P: 105.24
+!!!!!!!!!!!! -SMA Low: 21  -SMA High: 161  -Best Percentage: 107.91 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 21  -SMA High: 162  -Best Percentage: 115.54 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 21  -SMA High: 163  -Best Percentage: 120.12 !!!!!!!!!!!!
+From Best: 3.81%: -L: 23 -H: 162 -P: 120.12
+From Best: 0.0%: -L: 23 -H: 163 -P: 120.12
+!!!!!!!!!!!! -SMA Low: 24  -SMA High: 151  -Best Percentage: 120.55 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 24  -SMA High: 152  -Best Percentage: 128.52 !!!!!!!!!!!!
+From Best: 0.89%: -L: 24 -H: 153 -P: 128.52
+From Best: 0.44%: -L: 24 -H: 154 -P: 128.52
+From Best: 1.92%: -L: 24 -H: 155 -P: 128.52
+!!!!!!!!!!!! -SMA Low: 25  -SMA High: 152  -Best Percentage: 155.69 !!!!!!!!!!!!
+
+
+NVDA since 14 instead of 15
+
+!!!!!!!!!!!! -SMA Low: 30  -SMA High: 188  -Best Percentage: 102.61 !!!!!!!!!!!!
+From Best: 3.68%: -L: 31 -H: 194 -P: 102.61
+From Best: 3.4%: -L: 31 -H: 195 -P: 102.61
+!!!!!!!!!!!! -SMA Low: 31  -SMA High: 196  -Best Percentage: 113.91 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 32  -SMA High: 201  -Best Percentage: 121.56 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 32  -SMA High: 202  -Best Percentage: 125.18 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 45  -SMA High: 220  -Best Percentage: 132.21 !!!!!!!!!!!!
+From Best: 2.13%: -L: 45 -H: 221 -P: 132.21
+From Best: 1.33%: -L: 45 -H: 222 -P: 132.21
+From Best: 2.13%: -L: 46 -H: 221 -P: 132.21
+From Best: 1.33%: -L: 46 -H: 222 -P: 132.21
+From Best: 3.96%: -L: 47 -H: 216 -P: 132.21
+From Best: 2.04%: -L: 49 -H: 218 -P: 132.21
+From Best: 0.89%: -L: 49 -H: 219 -P: 132.21
+From Best: 0.0%: -L: 49 -H: 220 -P: 132.21
+From Best: 2.13%: -L: 49 -H: 221 -P: 132.21
+From Best: 1.33%: -L: 49 -H: 222 -P: 132.21
+!!!!!!!!!!!! -SMA Low: 50  -SMA High: 207  -Best Percentage: 142.1 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 55  -SMA High: 80  -Best Percentage: 144.52 !!!!!!!!!!!!
+From Best: 2.49%: -L: 55 -H: 81 -P: 144.52
+From Best: 0.5%: -L: 55 -H: 82 -P: 144.52
+!!!!!!!!!!!! -SMA Low: 56  -SMA High: 81  -Best Percentage: 154.98 !!!!!!!!!!!!
+From Best: 0.79%: -L: 65 -H: 204 -P: 154.98
+!!!!!!!!!!!! -SMA Low: 67  -SMA High: 200  -Best Percentage: 160.14 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 67  -SMA High: 201  -Best Percentage: 160.59 !!!!!!!!!!!!
+From Best: 1.38%: -L: 67 -H: 202 -P: 160.59
+From Best: 0.0%: -L: 68 -H: 201 -P: 160.59
+From Best: 1.38%: -L: 68 -H: 202 -P: 160.59
+!!!!!!!!!!!! -SMA Low: 69  -SMA High: 196  -Best Percentage: 175.14 !!!!!!!!!!!!
+From Best: 2.73%: -L: 69 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 70 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 75 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 75 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 76 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 81 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 81 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 82 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 87 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 87 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 88 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 93 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 93 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 94 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 99 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 99 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 100 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 105 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 105 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 106 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 111 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 111 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 112 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 117 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 117 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 118 -H: 197 -P: 175.14
+From Best: 3.28%: -L: 123 -H: 196 -P: 175.14
+From Best: 2.73%: -L: 123 -H: 197 -P: 175.14
+From Best: 2.73%: -L: 124 -H: 197 -P: 175.14
+  Year     Jan    Feb    Mar    Apr    May    Jun    Jul    Aug    Sep    Oct    Nov    Dec    YTD
+------  ------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+  2014    0      0      0      0      0      0       0     0      0     15.89   7.77  -4.39  19.42
+  2015   -4.24  15.34  -5.12   6.07   0.15  -9.13   -0.8  15.57   9.65  15.09  12.23   3.91  70.68
+  2016  -11.13   7.46  13.62  -0.28  24.77   0       0     0      0      0      0      0     34.99
+Stat                 ma_cross
+-------------------  ----------
+Start                2014-01-02
+End                  2016-05-20
+Risk-free rate       0.00%
+
+Total Return         175.14%
+Daily Sharpe         1.61
+CAGR                 53.02%
+Max Drawdown         -25.27%
+
+MTD                  24.77%
+3m                   46.16%
+6m                   41.74%
+YTD                  34.99%
+1Y                   117.70%
+3Y (ann.)            53.02%
+5Y (ann.)            -
+10Y (ann.)           -
+Since Incep. (ann.)  53.02%
+
+Daily Sharpe         1.61
+Daily Mean (ann.)    46.64%
+Daily Vol (ann.)     29.01%
+Daily Skew           2.21
+Daily Kurt           17.63
+Best Day             15.21%
+Worst Day            -7.38%
+
+Monthly Sharpe       1.62
+Monthly Mean (ann.)  48.18%
+Monthly Vol (ann.)   29.72%
+Monthly Skew         0.52
+Monthly Kurt         -0.19
+Best Month           24.77%
+Worst Month          -11.13%
+
+Yearly Sharpe        2.09
+Yearly Mean          52.83%
+Yearly Vol           25.24%
+Yearly Skew          -
+Yearly Kurt          -
+Best Year            70.68%
+Worst Year           34.99%
+
+Avg. Drawdown        -3.46%
+Avg. Drawdown Days   14.15
+Avg. Up Month        11.35%
+Avg. Down Month      -2.34%
+Win Year %           100.00%
+Win 12m %            100.00%
+
+
+TWTR since 14
+
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 32  -Best Percentage: 1.6 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 45  -Best Percentage: 39.47 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 52  -Best Percentage: 72.09 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 53  -Best Percentage: 90.3 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 13  -SMA High: 50  -Best Percentage: 98.58 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 13  -SMA High: 51  -Best Percentage: 129.45 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 19  -SMA High: 44  -Best Percentage: 163.79 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 21  -SMA High: 46  -Best Percentage: 164.5 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 22  -SMA High: 41  -Best Percentage: 172.49 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 22  -SMA High: 42  -Best Percentage: 176.3 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 22  -SMA High: 43  -Best Percentage: 201.51 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 25  -SMA High: 38  -Best Percentage: 207.13 !!!!!!!!!!!!
+
+
+
+
+GPRO since 14
+
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 20  -Best Percentage: 229.02 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 21  -Best Percentage: 254.2 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 10  -SMA High: 34  -Best Percentage: 285.13 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 18  -SMA High: 20  -Best Percentage: 292.08 !!!!!!!!!!!!
+From Best: 0.49%: -L: 22 -H: 53 -P: 292.08
+From Best: 0.21%: -L: 24 -H: 43 -P: 292.08
+!!!!!!!!!!!! -SMA Low: 27  -SMA High: 46  -Best Percentage: 375.92 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Low: 35  -SMA High: 42  -Best Percentage: 582.45 !!!!!!!!!!!!
+  Year    Jan     Feb    Mar    Apr    May    Jun    Jul     Aug    Sep     Oct    Nov    Dec     YTD
+------  -----  ------  -----  -----  -----  -----  -----  ------  -----  ------  -----  -----  ------
+  2014   0       0      0      0      0      0      0     -10.62  80.89  -17.72  15.57  54.62  137.75
+  2015  20.87   11.06  -5.24   7.35  10.74  -4.94  24.69  -17.97  -7.14   19.39  18.94   7.54  108.55
+  2016  47.85  -11.49  -8.25  14.57   0.07   0      0       0      0       0      0      0      37.64
+Stat                 ma_cross
+-------------------  ----------
+Start                2014-06-26
+End                  2016-05-20
+Risk-free rate       0.00%
+
+Total Return         582.45%
+Daily Sharpe         1.82
+CAGR                 174.77%
+Max Drawdown         -38.10%
+
+MTD                  0.07%
+3m                   7.89%
+6m                   47.35%
+YTD                  37.64%
+1Y                   95.37%
+3Y (ann.)            174.77%
+5Y (ann.)            -
+10Y (ann.)           -
+Since Incep. (ann.)  174.77%
+
+Daily Sharpe         1.82
+Daily Mean (ann.)    124.35%
+Daily Vol (ann.)     68.40%
+Daily Skew           0.31
+Daily Kurt           1.47
+Best Day             19.01%
+Worst Day            -12.49%
+
+Monthly Sharpe       1.57
+Monthly Mean (ann.)  130.86%
+Monthly Vol (ann.)   83.29%
+Monthly Skew         1.39
+Monthly Kurt         2.23
+Best Month           80.89%
+Worst Month          -17.97%
+
+Yearly Sharpe        1.46
+Yearly Mean          73.10%
+Yearly Vol           50.14%
+Yearly Skew          -
+Yearly Kurt          -
+Best Year            108.55%
+Worst Year           37.64%
+
+Avg. Drawdown        -8.24%
+Avg. Drawdown Days   15.19
+Avg. Up Month        23.87%
+Avg. Down Month      -9.26%
+Win Year %           100.00%
+Win 12m %            100.00%
+
+
+------------END SMA CROSS------------
+
+
+
+
+
+------------ABOVE/BELOW SMA------------
+
+GPRO since 14
+
+!!!!!!!!!!!! -SMA Value: 26  -Best Percentage: 4.32 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Value: 35  -Best Percentage: 8.14 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Value: 36  -Best Percentage: 19.91 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Value: 37  -Best Percentage: 21.68 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Value: 40  -Best Percentage: 28.58 !!!!!!!!!!!!
+!!!!!!!!!!!! -SMA Value: 41  -Best Percentage: 40.23 !!!!!!!!!!!!
+
+
+TWTR since 14
+
+NO RESULTS PROFITABLE
+
+
+NVDA since 14
+
+!!!!!!!!!!!! -SMA Value: 1  -Best Percentage: 146.3 !!!!!!!!!!!!
+  Year     Jan    Feb    Mar    Apr    May    Jun    Jul    Aug    Sep    Oct    Nov    Dec    YTD
+------  ------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+  2014    0.95   4.13  -2.56   3.13   3.34  -2.42  -5.61  11.63  -5.14   0.16   0      0      6.65
+  2015   -2.79  15.34  -2.03   6.78   0      0      0     -0.89   9.65  15.09  12.23   3.91  71.09
+  2016  -11.13   7.46  13.62  -0.28  24.77   0      0      0      0      0      0      0     34.99
+
+
+------------END ABOVE/BELOW SMA------------
+
+
+
+
+
+
